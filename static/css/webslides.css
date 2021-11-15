@@ -3061,7 +3061,7 @@
  /* -- Disable elastic scrolling/bounce:
  webslides.js will add .ws-ready automatically. Don't worry :) -- */
  body {
-   background-color: #fff;
+   background-color: #ffffff;
    color: #333; }
  
  :focus {
