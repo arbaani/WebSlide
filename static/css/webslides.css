@@ -1444,7 +1444,7 @@
    min-height: 100vh;
    /*Fullscreen*/
    /* Prototyping? min-height: 720px (Baseline: 8px = .8rem)*/
-   /* padding: 2.4rem; */
+   padding: 2.4rem;
    /*Fixed/Visible header? padding-top: 12rem; */
    page-break-after: always;
    position: relative;
